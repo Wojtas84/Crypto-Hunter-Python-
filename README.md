@@ -1,2 +1,3 @@
 # Crypto-Hunter-Python-
-Crypto Hunter Python is a Python script designed to scan for cryptocurrency wallets derived from mnemonic seeds and check their balances. It supports BTC ,ETH,BNB,SOL,DOGE,LTC,TRX and XRP wallets. The script utilizes the BIP-39 standard for mnemonic generation and BIP-44 for wallet derivation.
+Crypto Hunter Python is a Python script designed to scan for cryptocurrency wallets derived from mnemonic seeds and check their balances. It supports BTC,ETH,BNB,SOL,DOGE,LTC,TRX and XRP wallets. The script utilizes the BIP-39 standard for mnemonic generation and BIP-44 for wallet derivation.
+# If the script finds a wallet with balance he will save it automatically with the mnemonic seeds.
